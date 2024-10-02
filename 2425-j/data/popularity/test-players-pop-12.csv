@@ -1,0 +1,556 @@
+NAME,CLUB,POSITION,PRICE,POPULARITY,COUNTRY,PREVIOUS_CLUB,SUM_POINTS,SUM_GOALS,SUM_ASSISTS,PLAYER_INDEX,DATE
+Artem Putiwcew,Bruk-Bet Termalica Nieciecza,Obrońca,1.90,49%,Ukraina,Metalist Charków,39,2,1,548,202408131525
+Andrzej Trubeha,Bruk-Bet Termalica Nieciecza,Pomocnik,1.80,37%,Polska,Jagiellonia Białystok,34,3,1,1986,202408131525
+Damian Warchoł,Górnik Łęczna,Pomocnik,1.90,17%,Polska,Wisła Płock,32,4,1,2223,202408131525
+Łukasz Wiech,Znicz Pruszków,Obrońca,1.80,12%,Polska,Wisła Puławy,31,2,0,363,202408131525
+Maciej Ambrosiewicz,Bruk-Bet Termalica Nieciecza,Pomocnik,1.90,7%,Polska,Zagłębie Sosnowiec,31,2,2,1490,202408131525
+Florian Hartherz,Miedź Legnica,Obrońca,1.90,31%,Niemcy,Podbeskidzie Bielsko-Biała,27,1,2,1992,202408131525
+Benedik Mioc,Miedź Legnica,Pomocnik,2.00,12%,Chorwacja,NK Slaven Koprivnica,25,2,1,2372,202408131525
+Szymon Łyczko,Stal Rzeszów,Pomocnik,1.80,2%,Polska,wychowanek,25,2,1,2008,202408131525
+Adrián Chovan,Bruk-Bet Termalica Nieciecza,Bramkarz,1.90,9%,Słowacja,AO Panserraïkós,24,0,0,2343,202408131525
+Przemysław Banaszak,Górnik Łęczna,Napastnik,1.80,7%,Polska,Paxtakor Toshkent,24,3,0,1356,202408131525
+Jorge Jiménez,Wisła Płock,Pomocnik,1.80,2%,Hiszpania,UD San Sebastián de los Reye,24,3,0,2185,202408131525
+Dominik Kun,Wisła Płock,Pomocnik,2.00,30%,Polska,Widzew Łódź,22,1,1,288,202408131525
+Łukasz Sekulski,Wisła Płock,Napastnik,2.30,48%,Polska,ŁKS Łódź,22,2,1,878,202408131525
+Lukas Spendlhofer,Bruk-Bet Termalica Nieciecza,Obrońca,1.80,5%,Austria,Maccabi Bnei Reineh,22,0,0,2186,202408131525
+Radosław Majewski,Znicz Pruszków,Pomocnik,1.80,7%,Polska,Wieczysta Kraków,22,0,3,509,202408131525
+Iwo Kaczmarski,Miedź Legnica,Pomocnik,1.70,9%,Polska,Empoli FC,21,2,0,1286,202408131525
+Arkadiusz Kasperkiewicz,Bruk-Bet Termalica Nieciecza,Obrońca,1.90,7%,Polska,Stal Mielec,20,0,0,356,202408131525
+Sébastien Thill,Stal Rzeszów,Pomocnik,2.00,8%,Luksemburg,FC Hansa Rostock II,20,0,2,2189,202408131525
+Tornike Gaprindaszwili,Arka Gdynia,Pomocnik,1.80,17%,Gruzja,Zagłębie Lubin,20,0,3,2215,202408131525
+Szymon Szymański,Ruch Chorzów,Obrońca,1.80,6%,Polska,Skra Częstochowa,20,1,0,189,202408131525
+Marek Kozioł,Kotwica Kołobrzeg,Bramkarz,1.60,5%,Polska,ŁKS Łódź,20,0,0,247,202408131525
+Piotr Misztal,Znicz Pruszków,Bramkarz,1.60,4%,Polska,Nadwiślan Góra,20,0,0,2046,202408131525
+Michał Marcjanik,Arka Gdynia,Obrońca,2.10,23%,Polska,Wisła Płock,19,1,0,1300,202408131525
+Wiktor Bogacz,Miedź Legnica,Napastnik,1.80,17%,Polska,Delta Warszawa,19,2,0,2080,202408131525
+João Oliveira,Arka Gdynia,Pomocnik,1.90,4%,Szwajcaria,Debreceni VSC,19,1,1,2341,202408131525
+Ángel Rodado,Wisła Kraków,Napastnik,3.30,28%,Hiszpania,UD Ibiza,19,3,0,1922,202408131525
+Łukasz Kosakiewicz,Kotwica Kołobrzeg,Obrońca,1.60,2%,Polska,Sandecja Nowy Sącz,19,1,0,1264,202408131525
+Krzysztof Bąkowski,Stal Rzeszów,Bramkarz,1.70,3%,Polska,Polonia Warszawa,18,0,0,1616,202408131525
+Adrian Łyszczarz,Odra Opole,Pomocnik,1.90,4%,Polska,Resovia,18,1,1,692,202408131525
+Mateusz Broda,Górnik Łęczna,Obrońca,1.50,14%,Polska,Świt Nowy Dwór Mazowiecki,18,0,1,1527,202408131525
+Andrij Dombrowśkyj,Bruk-Bet Termalica Nieciecza,Pomocnik,1.70,0%,Ukraina,Desna Czernihów,18,0,1,1784,202408131525
+Jakub Szymański,Ruch Chorzów,Bramkarz,1.80,12%,Polska,Widzew Łódź,17,0,0,1537,202408131525
+Maciej Sadlok,Ruch Chorzów,Obrońca,1.80,9%,Polska,Wisła Kraków,17,0,1,1859,202408131525
+Kacper Karasek,Bruk-Bet Termalica Nieciecza,Pomocnik,1.80,3%,Polska,Widzew Łódź,17,2,0,1626,202408131525
+Andreja Prokić,Stal Rzeszów,Pomocnik,1.90,6%,Serbia,Stal Mielec,17,1,0,100,202408131525
+Maciej Wolski,Bruk-Bet Termalica Nieciecza,Pomocnik,1.80,2%,Polska,Stal Mielec,17,0,1,721,202408131525
+Michał Synoś,Stal Rzeszów,Obrońca,1.10,15%,Polska,wychowanek,17,0,0,2259,202408131525
+Michał Cywiński,Kotwica Kołobrzeg,Pomocnik,1.30,5%,Polska,Olimpia Grudziądz,17,1,0,2292,202408131525
+Cezary Demianiuk,Pogoń Siedlce,Napastnik,1.60,3%,Polska,Resovia,16,2,0,297,202408131525
+Patryk Warczak,Stal Rzeszów,Obrońca,1.70,2%,Polska,Garbarnia,16,0,0,2124,202408131525
+Wiktor Nowak,Znicz Pruszków,Pomocnik,1.60,1%,Polska,Legia Warszawa,16,1,0,615,202408131525
+Kamil Kościelny,Stal Rzeszów,Obrońca,1.80,2%,Polska,Warta Poznań,16,0,0,410,202408131525
+Rafał Makowski,GKS Tychy,Pomocnik,2.00,8%,Polska,Kisvárda FC,16,1,0,444,202408131525
+Marcel Bykowski,Kotwica Kołobrzeg,Pomocnik,0.80,7%,Polska,Piast Gliwice,16,1,0,2291,202408131525
+Sebastian Bonecki,Chrobry Głogów,Pomocnik,1.70,4%,Polska,Zagłębie Sosnowiec,15,1,0,521,202408131525
+Paweł Lenarcik,Arka Gdynia,Bramkarz,1.90,7%,Polska,GKS Bełchatów,15,0,0,1033,202408131525
+Wiktor Żytek,GKS Tychy,Pomocnik,1.90,4%,Polska,Puszcza Niepołomice,15,1,1,813,202408131525
+Kamil Orlik,Górnik Łęczna,Pomocnik,1.40,2%,Polska,Siarka Tarnobrzeg,15,0,1,2352,202408131525
+Jesus Diaz,Stal Rzeszów,Pomocnik,1.70,6%,Kolumbia,Cosmos Nowotaniec,15,1,0,2125,202408131525
+Filip Starzyński,Ruch Chorzów,Pomocnik,2.00,8%,Polska,Zagłębie Lubin,15,1,1,2382,202408131525
+Krzysztof Wróblewski,Chrobry Głogów,Bramkarz,1.70,0%,Polska,Puszcza Niepołomice,15,0,0,1367,202408131525
+Maciej Gostomski,Wisła Płock,Bramkarz,2.10,38%,Polska,Górnik Łęczna,15,0,0,626,202408131525
+Milan Šimčák,Stal Rzeszów,Obrońca,1.60,1%,Słowacja,FC Koper,15,0,0,2195,202408131525
+Paweł Moskwik,Znicz Pruszków,Obrońca,1.80,4%,Polska,Motor Lublin,15,0,0,169,202408131525
+Oskar Koprowski,Znicz Pruszków,Obrońca,1.70,1%,Polska,ŁKS Łódź,15,0,0,709,202408131525
+Dominik Sokół,Znicz Pruszków,Obrońca,1.70,1%,Polska,Zagłębie Sosnowiec,15,0,0,966,202408131525
+Wojciech Jakubik,Bruk-Bet Termalica Nieciecza,Napastnik,1.60,10%,Polska,Radunia Stężyca,15,2,0,2000,202408131525
+Jakub Bednarczyk,Górnik Łęczna,Pomocnik,1.80,1%,Polska,FC Sankt Pauli II,15,0,1,2009,202408131525
+Jonathan Junior,Kotwica Kołobrzeg,Napastnik,1.70,10%,Brazylia,Pouso Alegre FC,15,1,1,2298,202408131525
+Zvonimir Petrović,Kotwica Kołobrzeg,Pomocnik,1.70,1%,Bośnia,FK Javor,14,0,1,1289,202408131525
+Marcel Lubik,GKS Tychy,Bramkarz,1.60,2%,Polska,FC Augsburg,14,0,0,2348,202408131525
+Dominykas Barauskas,Górnik Łęczna,Obrońca,1.80,3%,Litwa,Stal Mielec,14,0,0,2350,202408131525
+Dawid Wolny,Odra Opole,Napastnik,1.50,2%,Polska,Polonia Bytom,14,2,0,1615,202408131525
+Karol Łysiak,Stal Rzeszów,Pomocnik,1.80,1%,Polska,Stal II Rzeszów,14,0,0,2133,202408131525
+Kamil Zapolnik,Bruk-Bet Termalica Nieciecza,Pomocnik,1.90,22%,Polska,Puszcza Niepołomice,14,0,2,131,202408131525
+Dawid Gojny,Arka Gdynia,Obrońca,1.90,18%,Polska,Zagłębie Sosnowiec,14,0,0,668,202408131525
+Kacper Skóra,Arka Gdynia,Pomocnik,2.10,11%,Polska,wychowanek,14,1,0,1452,202408131525
+Jakub Wrąbel,Miedź Legnica,Bramkarz,1.80,6%,Polska,Stal Rzeszów,14,0,0,1198,202408131525
+Miłosz Kozak,Ruch Chorzów,Pomocnik,2.30,24%,Polska,Górnik Łęczna,14,0,0,181,202408131525
+Szymon Bartlewicz,Chrobry Głogów,Pomocnik,1.90,5%,Polska,wychowanek,14,1,0,1999,202408131525
+Marc Navarro,Arka Gdynia,Obrońca,1.60,5%,Hiszpania,El Paso Locomotive FC,14,0,0,2269,202408131525
+Adrian Purzycki,Odra Opole,Pomocnik,1.70,1%,Polska,Arka Gdynia,14,1,0,241,202408131525
+Karol Czubak,Arka Gdynia,Napastnik,3.10,21%,Polska,Widzew Łódź,14,1,1,1273,202408131525
+Jacek Podgórski,Miedź Legnica,Pomocnik,1.90,6%,Polska,Korona Kielce,13,0,1,12,202408131525
+Szymon Sobczak,Arka Gdynia,Napastnik,2.20,25%,Polska,Wisła Kraków,13,1,0,268,202408131525
+Kamil Antonik,Miedź Legnica,Pomocnik,1.80,2%,Polska,Resovia,13,0,2,1303,202408131525
+Morgan Faßbender,Bruk-Bet Termalica Nieciecza,Pomocnik,1.80,2%,Niemcy,SV Meppen 1912,13,0,0,2098,202408131525
+Soma Novothny,Ruch Chorzów,Napastnik,2.10,19%,Węgry,Vasas SC,13,1,0,2385,202408131525
+Tomasz Bała,Stal Rzeszów,Napastnik,1.30,4%,Polska,Wisłoka Dębica,13,1,1,2386,202408131525
+Olivier Sukiennicki,Wisła Kraków,Pomocnik,1.70,12%,Polska,Stal Stalowa Wola,13,1,0,2402,202408131525
+Bojan Nastić,Wisła Płock,Obrońca,1.90,7%,Bośnia,Jagiellonia Białystok,13,0,1,2409,202408131525
+Damian Hilbrycht,Bruk-Bet Termalica Nieciecza,Obrońca,1.70,0%,Polska,Skra Częstochowa,13,0,2,883,202408131525
+Tomasz Wełna,Kotwica Kołobrzeg,Obrońca,1.50,2%,Polska,Polonia Warszawa,13,0,0,385,202408131525
+Branislav Spáčil,Górnik Łęczna,Pomocnik,1.70,0%,Słowacja,ŠK Slovan Bratysława,13,0,2,2433,202408131525
+Szymon Kądziołka,Stal Rzeszów,Pomocnik,1.60,0%,Polska,Stal II Rzeszów,13,0,0,1993,202408131525
+Rafał Adamski,Warta Poznań,Napastnik,1.20,3%,Polska,Miedź Legnica,13,1,1,1007,202408131525
+Patryk Mucha,Chrobry Głogów,Pomocnik,1.70,0%,Polska,Widzew Łódź,13,0,1,1270,202408131525
+Taras Zawijśkyj,Bruk-Bet Termalica Nieciecza,Pomocnik,1.80,0%,Ukraina,Desna Czernihów,13,0,0,1785,202408131525
+Daniel Pik,Pogoń Siedlce,Pomocnik,1.40,1%,Polska,Radomiak Radom,12,1,0,2313,202408131525
+Hide Vitalucci,Arka Gdynia,Pomocnik,1.80,8%,Włochy,Chojniczanka Chojnice,12,1,0,2342,202408131525
+Bartłomiej Poczobut,Polonia Warszawa,Pomocnik,1.80,3%,Polska,Stal Rzeszów,12,1,0,44,202408131525
+Patryk Malamis,Górnik Łęczna,Pomocnik,1.60,0%,Polska,Raków Częstochowa,12,0,0,2351,202408131525
+Patryk Plewka,Znicz Pruszków,Pomocnik,1.50,1%,Polska,Chrobry Głogów,12,0,0,1853,202408131525
+César Peña,Stal Rzeszów,Obrońca,1.50,1%,Kolumbia,Cosmos Nowotaniec,12,1,0,2115,202408131525
+Martin Konczkowski,Ruch Chorzów,Obrońca,2.00,26%,Polska,Śląsk Wrocław,12,0,0,2377,202408131525
+Jędrzej Grobelny,Warta Poznań,Bramkarz,1.80,5%,Polska,Miedź Legnica,12,0,0,1357,202408131525
+Władysław Ochronczuk,Znicz Pruszków,Pomocnik,1.80,1%,Ukraina,Polonia Warszawa,12,0,0,1702,202408131525
+Krystian Wachowiak,Stal Rzeszów,Obrońca,1.70,1%,Polska,Wisła Kraków,12,0,1,942,202408131525
+Anton Chichkan,Wisła Kraków,Bramkarz,1.80,6%,Białoruś,BATE Borysów,12,0,0,2261,202408131525
+Jakub Górski,Stal Stalowa Wola,Pomocnik,1.60,2%,Polska,Chrobry Głogów,11,1,0,1285,202408131525
+Krystian Tabara,Znicz Pruszków,Pomocnik,1.70,1%,Polska,Pelikan Łowicz,11,0,0,2057,202408131525
+Adam Deja,Górnik Łęczna,Pomocnik,1.80,2%,Polska,Korona Kielce,11,0,0,1304,202408131525
+Bartosz Śpiączka,GKS Tychy,Napastnik,1.90,11%,Polska,Korona Kielce,11,1,0,539,202408131525
+Przemysław Szarek,Chrobry Głogów,Obrońca,1.60,0%,Polska,Motor Lublin,11,1,0,550,202408131525
+Jakub Lutostański,Pogoń Siedlce,Napastnik,1.50,1%,Polska,Śląsk Wrocław,11,0,1,2411,202408131525
+Dani Pacheco,Wisła Płock,Pomocnik,1.90,5%,Hiszpania,Górnik Zabrze,11,0,1,2426,202408131525
+Filipe Oliveira,Kotwica Kołobrzeg,Pomocnik,1.70,1%,Portugalia,Vitoria FC Setubal,11,0,0,1466,202408131525
+Daniel Stanclik,Znicz Pruszków,Napastnik,1.70,1%,Polska,Miedź Legnica,11,1,0,194,202408131525
+Adrian Kostrzewski,Górnik Łęczna,Bramkarz,1.60,1%,Polska,GKS Tychy,11,0,0,1229,202408131525
+Kamil Górecki,Arka Gdynia,Obrońca,0.50,9%,Polska,wychowanek,11,0,0,2284,202408131525
+Jurij Tkaczuk,Warta Poznań,Pomocnik,1.50,1%,Ukraina,Znicz Pruszków,10,0,0,2058,202408131525
+Michael Kostka,Miedź Legnica,Obrońca,1.80,2%,Polska,RB Leipzig,10,0,0,2077,202408131525
+Bartosz Szeliga,Warta Poznań,Pomocnik,1.90,3%,Polska,ŁKS Łódź,10,0,0,542,202408131525
+Kamil Drygas,Miedź Legnica,Pomocnik,2.10,9%,Polska,Pogoń Szczecin,10,0,1,2078,202408131525
+Jakub Szymański,Wisła Płock,Obrońca,1.80,2%,Polska,Górnik Zabrze,10,0,0,2087,202408131525
+Andreu Arasa,ŁKS Łódź,Pomocnik,1.80,1%,Hiszpania,UD San Sebastián de los Reyes,10,1,0,2359,202408131525
+Michał Borecki,Arka Gdynia,Pomocnik,1.70,0%,Polska,KKS 1925 Kalisz,10,0,0,64,202408131525
+Jakub Bartosz,Odra Opole,Obrońca,1.70,2%,Polska,Puszcza Niepołomice,10,0,1,589,202408131525
+Mariusz Kutwa,Wisła Kraków,Obrońca,0.60,9%,Polska,Wisła II Kraków,10,0,0,2134,202408131525
+Paweł Żyra,Górnik Łęczna,Pomocnik,1.80,2%,Polska,Stal Mielec,10,0,0,867,202408131525
+Benedykt Piotrowski,Stal Rzeszów,Pomocnik,0.50,1%,Polska,wychowanek,10,0,1,1902,202408131525
+Marko Roginić,Górnik Łęczna,Napastnik,1.90,6%,Chorwacja,GKS Katowice,10,0,0,884,202408131525
+Daniel Szczepan,Ruch Chorzów,Napastnik,2.50,20%,Polska,GKS 1962 Jastrzębie,10,1,0,1149,202408131525
+Bartłomiej Ciepiela,Znicz Pruszków,Pomocnik,1.70,0%,Polska,Resovia,10,0,0,2180,202408131525
+Maciej Firlej,Warta Poznań,Napastnik,1.70,3%,Polska,Puszcza Niepołomice,10,1,0,915,202408131525
+Mateusz Kuchta,Polonia Warszawa,Bramkarz,1.70,3%,Polska,Chojniczanka Chojnice,10,0,0,198,202408131525
+Jakub Kiełb,Warta Poznań,Obrońca,1.90,4%,Polska,Jarota Jarocin,10,0,1,754,202408131525
+Dominik Jończy,Stal Stalowa Wola,Obrońca,1.60,1%,Polska,Zagłębie Sosnowiec,10,1,0,511,202408131525
+Maksymilian Banaszewski,Odra Opole,Pomocnik,1.80,2%,Polska,Podbeskidzie Bielsko-Biała,9,0,0,258,202408131525
+Lukas Hrnclar,Pogoń Siedlce,Obrońca,1.50,3%,Słowacja,Siarka Tarnobrzeg,9,1,0,2306,202408131525
+Michał Rzuchowski,Arka Gdynia,Pomocnik,1.90,2%,Polska,Śląsk Wrocław,9,0,0,45,202408131525
+Mamin Sanyang,GKS Tychy,Pomocnik,1.90,3%,Gambia,Hannover 96 II,9,0,0,2349,202408131525
+Branislav Pindroch,Górnik Łęczna,Bramkarz,1.70,4%,Słowacja,Resovia,9,0,0,1611,202408131525
+Jakub Budnicki,GKS Tychy,Obrońca,1.80,1%,Polska,Raków II Częstochowa,9,0,0,2127,202408131525
+Jakub Bartkowski,Warta Poznań,Obrońca,1.80,4%,Polska,Lechia Gdańsk,9,0,0,2389,202408131525
+Oskar Zawada,Odra Opole,Pomocnik,0.50,1%,Polska,wychowanek,9,0,1,2419,202408131525
+Marcus Haglind-Sangré,Wisła Płock,Obrońca,2.00,6%,Szwecja,Örgryte IS,9,0,0,2236,202408131525
+Edvin Muratović,Odra Opole,Napastnik,1.80,1%,Luksemburg,Resovia,9,1,0,2243,202408131525
+Daniel Cieśla,Bruk-Bet Termalica Nieciecza,Obrońca,0.50,3%,Polska,wychowanek,9,1,0,2017,202408131525
+Jonathan de Amo,Górnik Łęczna,Obrońca,1.70,5%,Hiszpania,Stal Mielec,9,0,0,227,202408131525
+Mavroudís Bougaḯdis,Chrobry Głogów,Obrońca,1.70,1%,Grecja,PAO Koufalíon,9,0,0,490,202408131525
+Michał Kozajda,Kotwica Kołobrzeg,Pomocnik,1.20,0%,Polska,Sokół Kleczew,9,0,0,2293,202408131525
+Cezary Polak,Kotwica Kołobrzeg,Pomocnik,1.00,2%,Polska,Garbarnia Kraków,9,0,0,2296,202408131525
+Filip Kozłowski,Kotwica Kołobrzeg,Napastnik,1.50,0%,Polska,Skra Częstochowa,9,0,1,1532,202408131525
+Krystian Pomorski,Wisła Płock,Pomocnik,1.80,2%,Polska,Znicz Pruszków,8,0,0,2055,202408131525
+Bartosz Kwiecień,Miedź Legnica,Obrońca,1.80,3%,Polska,Korona Kielce,8,0,0,1298,202408131525
+Adam Wilk,Stal Stalowa Wola,Bramkarz,1.50,1%,Polska,Cracovia,8,0,0,2323,202408131525
+Dawid Kocyła,Wisła Płock,Pomocnik,1.90,2%,Polska,Bruk-Bet Termalica Nieciecza,8,0,0,1045,202408131525
+İlkay Durmuş,Polonia Warszawa,Pomocnik,1.90,4%,Niemcy,Górnik Łęczna,8,0,0,2070,202408131525
+Adam Imiela,Stal Stalowa Wola,Pomocnik,1.50,0%,Polska,ŁKS Łagów,8,0,1,2330,202408131525
+Patryk Zaucha,Stal Stalowa Wola,Pomocnik,1.60,0%,Polska,Cracovia,8,0,0,2334,202408131525
+Kacper Chełmecki,Stal Stalowa Wola,Napastnik,0.90,5%,Polska,KS Wiązownica,8,0,0,2335,202408131525
+Jakub Różycki,Bruk-Bet Termalica Nieciecza,Pomocnik,0.60,0%,Polska,Tuchovia Tuchów,8,0,0,2345,202408131525
+Wiktor Pleśnierowicz,Warta Poznań,Obrońca,1.80,2%,Polska,Polonia Warszawa,8,1,0,1358,202408131525
+Denis Ventura,Ruch Chorzów,Pomocnik,1.80,1%,Słowacja,Sigma Ołomuniec,8,0,0,2383,202408131525
+Łukasz Moneta,Ruch Chorzów,Pomocnik,1.80,1%,Polska,Stomil Olsztyn,8,0,0,864,202408131525
+Maciej Famulak,Wisła Płock,Pomocnik,1.60,0%,Polska,Olimpia Elbląg,8,1,0,2406,202408131525
+Ksawery Kukułka,Wisła Płock,Obrońca,1.20,1%,Polska,Lech II Poznań,8,0,0,2407,202408131525
+Mateusz Grudziński,Miedź Legnica,Obrońca,1.70,0%,Polska,Znicz Pruszków,8,0,0,1391,202408131525
+Marc Carbó,Wisła Kraków,Pomocnik,1.70,1%,Hiszpania,CD Lugo,8,0,1,2171,202408131525
+Łukasz Bomba,ŁKS Łódź,Bramkarz,1.20,3%,Polska,ŁKS II Łódź,8,0,0,2430,202408131525
+Victor Moya Martinez,Miedź Legnica,Pomocnik,2.10,4%,Hiszpania,Wisła Kraków,8,0,0,1670,202408131525
+Damian Gąska,Warta Poznań,Pomocnik,1.70,4%,Polska,Górnik Łęczna,8,0,0,418,202408131525
+Filip Szabaciuk,Górnik Łęczna,Obrońca,1.40,0%,Polska,Stomil Olsztyn,8,0,0,1486,202408131525
+Rafał Niziołek,Odra Opole,Pomocnik,1.90,4%,Polska,MKS Kluczbork,8,0,0,212,202408131525
+Krzysztof Drzazga,Miedź Legnica,Napastnik,1.80,2%,Polska,Podbeskidzie Bielsko-Biała,8,0,0,492,202408131525
+Marcel Błachewicz,GKS Tychy,Obrońca,1.80,1%,Polska,Bruk-Bet Termalica Nieciecza,8,0,0,1781,202408131525
+David Niepsuj,Wisła Płock,Obrońca,1.80,2%,Polska,Chojniczanka Chojnice,8,0,0,1790,202408131525
+Mikołaj Lebedyński,Chrobry Głogów,Napastnik,2.00,5%,Polska,Górnik Łęczna,7,0,0,524,202408131525
+Jakub Kuzdra,Chrobry Głogów,Pomocnik,1.60,0%,Polska,Vólos NPS,7,0,0,43,202408131525
+Fryderyk Janaszek,Górnik Łęczna,Pomocnik,1.00,0%,Polska,KSZO 1929 Ostrowiec Świętokrzyski,7,0,0,2106,202408131525
+Antoni Młynarczyk,ŁKS Łódź,Pomocnik,1.50,2%,Polska,Diament Zduńska Wola,7,0,1,2365,202408131525
+Robert Mandrysz,Chrobry Głogów,Pomocnik,1.70,0%,Polska,Bytovia Bytów,7,0,0,72,202408131525
+Mateusz Chmarek,Ruch Chorzów,Pomocnik,0.90,3%,Polska,GKS Jastrzębie,7,0,0,2380,202408131525
+Sebastian Strózik,Stal Stalowa Wola,Napastnik,1.60,1%,Polska,Wisła Płock,7,0,1,1613,202408131525
+Rafał Mikulec,Wisła Kraków,Obrońca,1.80,3%,Polska,Resovia,7,0,0,334,202408131525
+Szymon Sarbinowski,Warta Poznań,Pomocnik,1.00,0%,Polska,Flota Świnoujście,7,0,0,2396,202408131525
+Fabian Hiszpański,Wisła Płock,Pomocnik,1.80,1%,Polska,Stal Mielec,7,0,0,862,202408131525
+Ángel Baena,Wisła Kraków,Pomocnik,1.90,2%,Hiszpania,CD Lugo,7,0,0,2143,202408131525
+Dominik Połap,GKS Tychy,Obrońca,1.70,1%,Polska,wychowanek,7,0,0,877,202408131525
+Marcel Predenkiewicz,Polonia Warszawa,Pomocnik,1.40,1%,Polska,Arka Gdynia,7,0,0,1901,202408131525
+Marko Dijakovic,GKS Tychy,Obrońca,1.80,2%,Austria,SK Rapid Wiedeń II,7,0,0,2176,202408131525
+Tomasz Wojcinowicz,Warta Poznań,Obrońca,1.80,1%,Polska,Puszcza Niepołomice,7,0,0,1674,202408131525
+Bartosz Jaroch,Wisła Kraków,Obrońca,1.90,7%,Polska,Resovia,7,0,0,166,202408131525
+Julius Ertlthaler,GKS Tychy,Pomocnik,1.80,1%,Austria,WSG Tirol,7,0,0,2219,202408131525
+Daniel Rumin,GKS Tychy,Napastnik,1.90,3%,Polska,GKS Jastrzębie,7,0,0,695,202408131525
+Michał Grudniewski,Polonia Warszawa,Obrońca,1.80,3%,Polska,Widzew Łódź,7,0,0,951,202408131525
+Mateusz Ozimek,Chrobry Głogów,Pomocnik,1.70,0%,Polska,Orlęta Radzyń Podlaski,7,0,0,1976,202408131525
+Kaito Imai,Znicz Pruszków,Pomocnik,1.50,0%,Japonia,Jarota Jarocin,7,0,0,2263,202408131525
+Marcin Szpakowski,GKS Tychy,Pomocnik,1.70,0%,Polska,Korona Kielce,7,0,1,1498,202408131525
+Kacper Przybyłko,Warta Poznań,Obrońca,1.20,1%,Polska,Wisła Kraków,7,0,0,2013,202408131525
+Leon Krekovic,Kotwica Kołobrzeg,Napastnik,1.60,1%,Chorwacja,FC Lahti,7,0,0,2299,202408131525
+Patryk Szwedzik,Chrobry Głogów,Napastnik,1.70,0%,Polska,Śląsk Wrocław,7,0,0,1533,202408131525
+Jakub Tecław,GKS Tychy,Obrońca,1.80,1%,Polska,Stomil Olsztyn,6,0,0,1025,202408131525
+Miłosz Drąg,Pogoń Siedlce,Obrońca,1.40,0%,Polska,Hutnik Kraków,6,0,0,2311,202408131525
+Damian Szuprytowski,Pogoń Siedlce,Pomocnik,1.30,0%,Polska,Radunia Stężyca,6,0,0,2314,202408131525
+Nikodem Zawistowski,Polonia Warszawa,Pomocnik,1.70,2%,Polska,KKS 1925 Kalisz,6,0,0,23,202408131525
+Michał Bajdur,Polonia Warszawa,Pomocnik,1.80,1%,Polska,Legionovia Legionowo,6,0,0,283,202408131525
+Kamil Jakubczyk,Arka Gdynia,Pomocnik,1.20,0%,Polska,Pogoń II Szczecin,6,0,1,2340,202408131525
+Łukasz Góra,Ruch Chorzów,Obrońca,1.70,1%,Polska,Stal Rzeszów,6,0,0,306,202408131525
+Jędrzej Zając,ŁKS Łódź,Pomocnik,1.20,0%,Polska,Radunia Stężyca,6,0,0,2367,202408131525
+Titas Milašius,Pogoń Siedlce,Pomocnik,1.60,1%,Litwa,Podbeskidzie Bielsko-Biała,6,0,1,1605,202408131525
+Filip Waluś,Warta Poznań,Pomocnik,1.00,5%,Polska,Rekord Bielsko-Biała,6,0,0,2399,202408131525
+Krystian Pchełka,Stal Stalowa Wola,Napastnik,1.30,0%,Polska,Legia II Warszawa,6,0,0,2413,202408131525
+Mateusz Lewandowski,Wisła Płock,Napastnik,1.60,1%,Polska,Wigry Suwałki,6,0,0,1650,202408131525
+Marcel Mansfeld,Miedź Legnica,Napastnik,1.80,1%,Niemcy,Fortuna Düsseldorf 1895,6,0,0,2164,202408131525
+Konrad Nowak,Odra Opole,Pomocnik,1.70,0%,Polska,Puszcza Niepołomice,6,0,0,887,202408131525
+Artur Haluch,Odra Opole,Bramkarz,1.90,4%,Polska,Pogoń Grodzisk Mazowiecki,6,0,0,948,202408131525
+Kacper Tabiś,Chrobry Głogów,Pomocnik,1.70,0%,Polska,Jagiellonia Białystok,6,0,0,696,202408131525
+Łukasz Zjawiński,Polonia Warszawa,Napastnik,1.90,3%,Polska,Lechia Gdańsk,6,0,0,1724,202408131525
+Piotr Pyrdoł,Pogoń Siedlce,Pomocnik,1.60,2%,Polska,Skra Częstochowa,6,0,0,717,202408131525
+Kacper Michalski,Warta Poznań,Obrońca,1.80,0%,Polska,Ruch Chorzów,6,0,0,1773,202408131525
+Krzysztof Koton,Polonia Warszawa,Pomocnik,1.80,0%,Polska,MKS Polonia Warszawa,6,0,0,2041,202408131525
+Ołeksij Zinkewycz,Pogoń Siedlce,Pomocnik,1.50,0%,Ukraina,Pogoń Grodzisk Mazowiecki,5,0,0,2316,202408131525
+Bartosz Pioterczak,Stal Stalowa Wola,Pomocnik,1.20,1%,Polska,AP Stalowa Wola,5,0,0,2332,202408131525
+Łukasz Soszyński,Stal Stalowa Wola,Pomocnik,1.40,0%,Polska,Lechia Zielona Góa,5,0,0,1311,202408131525
+Bartosz Biel,Chrobry Głogów,Pomocnik,1.60,1%,Polska,ŁKS Łódź,5,0,0,36,202408131525
+Mateusz Kupczak,ŁKS Łódź,Pomocnik,2.20,3%,Polska,Warta Poznań,5,0,0,554,202408131525
+José Antonio Pirulo,ŁKS Łódź,Pomocnik,2.50,10%,Hiszpania,Real Balompédica Linense,5,0,0,1325,202408131525
+Joseph Colley,Wisła Kraków,Obrońca,1.70,2%,Szwecja,IK Sirius,5,0,0,1841,202408131525
+Adrien Louveau,ŁKS Łódź,Obrońca,2.00,2%,Francja,RC Lens B,5,1,0,2357,202408131525
+Łukasz Norkowski,Warta Poznań,Pomocnik,1.50,0%,Polska,Noteć Czarnków,5,0,0,1081,202408131525
+Wiktor Niewiarowski,GKS Tychy,Pomocnik,1.60,0%,Polska,Podlasie Biała Podlaska,5,0,0,2105,202408131525
+Szymon Kobusiński,Polonia Warszawa,Napastnik,1.80,3%,Polska,Zagłębie Lubin,5,0,0,835,202408131525
+Szymon Mida,Odra Opole,Pomocnik,0.50,7%,Polska,Unia Tarnów,5,0,0,2373,202408131525
+Dawid Hanc,Chrobry Głogów,Pomocnik,1.70,0%,Polska,Zagłębie Lubin,5,0,1,1866,202408131525
+José Antonio Nono,Ruch Chorzów,Pomocnik,1.90,2%,Hiszpania,Nassaji Mazandaran,5,0,0,2381,202408131525
+Miłosz Brzozowski,Wisła Płock,Pomocnik,1.60,0%,Polska,FC Hansa Rostock,5,0,0,2404,202408131525
+Ernest Terpiłowski,Polonia Warszawa,Pomocnik,2.00,3%,Polska,Widzew Łódź,5,0,0,1132,202408131525
+Patryk Gogół,Wisła Kraków,Pomocnik,1.70,0%,Polska,Lech II Poznań,5,0,0,2160,202408131525
+Paweł Tupaj,Chrobry Głogów,Pomocnik,1.50,0%,Polska,Miedź Legnica,5,0,0,1403,202408131525
+Mateusz Pruchniewski,Pogoń Siedlce,Bramkarz,0.90,6%,Polska,Lech Poznań,5,0,0,2434,202408131525
+Szymon Karasiński,Ruch Chorzów,Obrońca,0.70,2%,Polska,Zagłębie Lublin,5,0,0,2435,202408131525
+Souleymane Cisse,Polonia Warszawa,Obrońca,1.80,3%,Senegal,Górnik Łęczna,5,0,0,1924,202408131525
+Mateusz Hołownia,GKS Tychy,Obrońca,1.70,0%,Polska,Bandırmaspor Kulübü,5,0,0,137,202408131525
+Kamil Dankowski,ŁKS Łódź,Obrońca,1.90,3%,Polska,Śląsk Wrocław,5,0,0,1423,202408131525
+Piotr Starzyński,Wisła Kraków,Pomocnik,1.60,1%,Polska,Górnik Łęczna,5,0,0,145,202408131525
+Nemanja Mijuśković,Miedź Legnica,Obrońca,2.10,23%,Czarnogóra,FC Harmannstadt,5,0,0,975,202408131525
+Wojciech Zieliński,Arka Gdynia,Pomocnik,0.50,1%,Polska,wychowanek,5,0,0,2010,202408131525
+Jakub Kowalski,Stal Stalowa Wola,Pomocnik,1.30,1%,Polska,Podhale Nowy targ,4,0,0,517,202408131525
+Tymon Proczek,Znicz Pruszków,Pomocnik,1.60,0%,Polska,wychowanek,4,0,0,2056,202408131525
+Jakub Szrek,Odra Opole,Obrońca,1.80,3%,Polska,Błękitni Stargard,4,0,0,294,202408131525
+Maksymilian Dziuba,GKS Tychy,Pomocnik,1.40,0%,Polska,Lech Poznań,4,0,0,2346,202408131525
+Levent Gülen,ŁKS Łódź,Obrońca,1.90,2%,Szwajcaria,Miedź Legnica,4,0,0,2356,202408131525
+Antonio Majcenić,ŁKS Łódź,Obrońca,1.90,1%,Chorwacja,NK Rogaška,4,0,0,2358,202408131525
+Husein Balić,ŁKS Łódź,Pomocnik,2.00,4%,Austria,Linzer ASK II,4,0,0,2360,202408131525
+Przemysław Stolc,Arka Gdynia,Obrońca,1.90,6%,Polska,KKS 1925 Kalisz,4,0,0,61,202408131525
+Andrej Lukic,Ruch Chorzów,Obrońca,1.80,1%,Chorwacja,Mezokovesd-Zsory SE,4,0,0,2379,202408131525
+Przemysław Misiak,Wisła Płock,Obrońca,1.30,1%,Polska,Pogoń Siedlce,4,0,0,2408,202408131525
+Szymon Lewkot,Chrobry Głogów,Pomocnik,1.60,0%,Polska,Śląsk Wrocław,4,0,0,1931,202408131525
+Jakub Banach,Stal Stalowa Wola,Obrońca,1.30,1%,Polska,Garbarnia Kraków,4,0,0,1189,202408131525
+Xabier Auzmendi,Polonia Warszawa,Pomocnik,1.80,0%,Hiszpania,Žalgiris Kowno,4,0,0,2231,202408131525
+Michał Osipiak,Odra Opole,Pomocnik,0.50,1%,Polska,Odra II Opole,4,0,0,2277,202408131525
+Kamil Wojtkowski,Stal Stalowa Wola,Pomocnik,1.30,1%,Polska,Motor Lublin,4,0,0,2033,202408131525
+Jakub Sinior,Pogoń Siedlce,Obrońca,1.30,0%,Polska,Zagłębie Sosnowiec,4,0,0,1017,202408131525
+Oliwier Wojciechowski,Polonia Warszawa,Pomocnik,1.00,0%,Polska,Jagiellonia Białystok,4,0,0,2044,202408131525
+Kacper Flisiuk,Znicz Pruszków,Pomocnik,0.80,1%,Polska,Ursus Warszawa,3,0,0,2053,202408131525
+Mikołaj Smyłek,Stal Stalowa Wola,Bramkarz,1.20,2%,Polska,Pogoń Grodzisk Mazowiecki,3,0,0,2321,202408131525
+Krystian Lelek,Stal Stalowa Wola,Pomocnik,1.50,0%,Polska,Hutnik Kraków,3,0,0,2331,202408131525
+Aleksander Biegański,Kotwica Kołobrzeg,Pomocnik,1.30,0%,Polska,Legionovia Legionowo,3,0,0,1072,202408131525
+Jakub Wróbel,Bruk-Bet Termalica Nieciecza,Napastnik,1.70,1%,Polska,Sandecja Nowy Sącz,3,0,0,568,202408131525
+Jiří Piroch,Odra Opole,Obrońca,1.80,2%,Czechy,FK Dukla Praga,3,0,0,2109,202408131525
+Mateusz Wysokiński,ŁKS Łódź,Pomocnik,1.40,0%,Polska,KKS 1925 Kalisz,3,0,0,2366,202408131525
+Igor Sapała,Wisła Kraków,Pomocnik,1.70,1%,Polska,Raków Częstochowa,3,0,0,320,202408131525
+Jordan Dominguez,Odra Opole,Pomocnik,1.80,2%,Hiszpania,SD Compostela,3,0,0,2374,202408131525
+Nemanja Nedić,GKS Tychy,Obrońca,1.90,5%,Czarnogóra,FK Sutjeska Nikšić,3,0,0,1352,202408131525
+Erjon Hoxhallari,Polonia Warszawa,Obrońca,1.80,3%,Albania,KF Tirana,3,0,0,2376,202408131525
+Piotr Żemło,Odra Opole,Obrońca,1.70,1%,Polska,Wisła Puławy,3,0,0,852,202408131525
+Filip Jakubowski,Warta Poznań,Pomocnik,1.20,0%,Polska,Podhale Nowy Targ,3,0,0,2394,202408131525
+Maciej Żurawski,Warta Poznań,Pomocnik,2.20,2%,Polska,Pogoń Szczecin,3,0,0,2400,202408131525
+Andrias Edmundsson,Wisła Płock,Obrońca,1.80,1%,Wyspy,Chojniczanka Chojnice,3,0,0,2405,202408131525
+Albert Zarówny,Chrobry Głogów,Obrońca,1.70,2%,Polska,Czarni Żagań,3,0,0,1903,202408131525
+Łukasz Zwoliński,Wisła Kraków,Napastnik,2.20,5%,Polska,Raków Częstochowa,3,0,0,2425,202408131525
+Ivan Mihaljević,ŁKS Łódź,Obrońca,1.80,0%,Chorwacja,SV Lafnitz,3,0,0,2428,202408131525
+Mateusz Król,Znicz Pruszków,Napastnik,1.60,0%,Polska,Mławianka Mława,3,0,0,2431,202408131525
+Hubert Turski,Górnik Łęczna,Napastnik,1.50,0%,Polska,Arka Gdynia,3,0,0,1666,202408131525
+Leon Ziętek,Kotwica Kołobrzeg,Pomocnik,0.50,0%,Polska,wychowanek,3,0,0,2440,202408131525
+David Ogaga,Górnik Łęczna,Obrońca,1.70,0%,Nigeria,FC Petržalka 1898,3,0,0,2444,202408131525
+Mehdi Lehaire,Miedź Legnica,Pomocnik,1.70,0%,Belgia,Resovia,3,0,0,1437,202408131525
+Adam Ratajczyk,Arka Gdynia,Pomocnik,1.80,0%,Polska,Zagłębie II Lubin,3,0,0,937,202408131525
+Jakub Bieroński,GKS Tychy,Pomocnik,1.60,0%,Polska,Podbeskidzie Bielsko-Biała,3,0,0,941,202408131525
+Michał Mydlarz,Stal Stalowa Wola,Pomocnik,1.30,0%,Polska,Avia Świdnik,3,0,0,1205,202408131525
+Michał Mokrzycki,ŁKS Łódź,Pomocnik,1.70,1%,Polska,Wisła Płock,3,0,0,1978,202408131525
+Oskar Tomczyk,Wisła Płock,Napastnik,0.90,1%,Polska,Lech II Poznań,3,0,0,2238,202408131525
+Artur Pikk,Odra Opole,Obrońca,1.50,1%,Estonia,FC Levadia Tallin,3,0,0,977,202408131525
+Oskar Krzyżak,Pogoń Siedlce,Obrońca,1.50,1%,Polska,Raków Częstochowa,3,0,0,738,202408131525
+Piotr Witasik,Kotwica Kołobrzeg,Obrońca,1.30,0%,Polska,Olimpia Grudziądz,3,0,0,2290,202408131525
+Mateusz Majewski,Pogoń Siedlce,Napastnik,1.30,0%,Polska,Lublinianka Lublin,2,0,0,2319,202408131525
+Damian Oko,Stal Stalowa Wola,Obrońca,1.60,1%,Polska,Zagłębie Lubin,2,0,0,2327,202408131525
+Damian Urban,Stal Stalowa Wola,Obrońca,1.40,0%,Polska,Hutnik Kraków,2,0,0,2328,202408131525
+Szymon Pawłowski,Warta Poznań,Pomocnik,1.40,0%,Polska,Lech II Poznań,2,0,0,541,202408131525
+Mateusz Młyński,Wisła Kraków,Pomocnik,2.00,1%,Polska,Górnik Łęczna,2,0,0,1309,202408131525
+Piotr Krawczyk,Wisła Płock,Napastnik,1.50,0%,Polska,Górnik Zabrze,2,0,0,299,202408131525
+Tobiasz Kubik,GKS Tychy,Pomocnik,1.40,0%,Polska,Skra Częstochowa,2,0,0,2347,202408131525
+Alan Uryga,Wisła Kraków,Obrońca,1.70,4%,Polska,Wisła Płock,2,0,0,1842,202408131525
+Maksymilian Sitek,ŁKS Łódź,Pomocnik,1.70,1%,Polska,Podbeskidzie II Bielsko-Biała,2,0,0,1090,202408131525
+Oliwier Szymoniak,Miedź Legnica,Obrońca,0.70,1%,Polska,Miedź II Legnica,2,0,0,2371,202408131525
+Jakub Staniszewski,Arka Gdynia,Pomocnik,0.80,2%,Polska,wychowanek,2,0,0,1862,202408131525
+Mateusz Kamiński,Odra Opole,Obrońca,1.80,3%,Polska,GKS Katowice,2,0,0,85,202408131525
+Giánnis Kiakós,Wisła Kraków,Obrońca,1.90,2%,Grecja,PAS Giánnina,2,0,0,2401,202408131525
+Eryk Marcinkowski,Chrobry Głogów,Obrońca,1.40,0%,Polska,Unia Swarzędz,2,0,0,2412,202408131525
+Kamil Kort,Kotwica Kołobrzeg,Pomocnik,1.20,0%,Polska,wychowanek,2,0,0,2439,202408131525
+Tamás Kiss,Wisła Kraków,Pomocnik,2.10,0%,Węgry,Újpest FC,2,0,0,2442,202408131525
+Solo Traoré,Górnik Łęczna,Napastnik,1.50,0%,Hiszpania,Girona,2,0,0,2448,202408131525
+Stefan Feiertag,ŁKS Łódź,Napastnik,1.90,0%,Austria,FC Blau Weiß Linz,2,0,0,2450,202408131525
+Paweł Oleksy,Stal Rzeszów,Obrońca,1.70,2%,Polska,Chrobry Głogów,2,0,0,171,202408131525
+Damian Tront,Miedź Legnica,Pomocnik,1.80,0%,Polska,GKS 1962 Jastrzębie Jastrzębie Zdrój,2,0,0,685,202408131525
+Marcin Kluska,Polonia Warszawa,Pomocnik,1.50,0%,Polska,Legionovia Legionowo,2,0,0,962,202408131525
+Ernest Dzięcioł,Pogoń Siedlce,Obrońca,1.40,0%,Polska,Sokół Ostróda,2,0,0,460,202408131525
+Dawid Burka,Pogoń Siedlce,Obrońca,1.30,0%,Polska,Górnik Polkowice,2,0,0,2303,202408131525
+Krystian Miś,Pogoń Siedlce,Obrońca,1.30,1%,Polska,Piast Żmigród,1,0,0,2308,202408131525
+Krzysztof Danielewicz,Pogoń Siedlce,Pomocnik,1.70,0%,Polska,Stal Rzeszów,1,0,0,17,202408131525
+Jakub Svec,Stal Stalowa Wola,Napastnik,1.50,1%,Słowacja,FC ViOn Zlate Moravce,1,0,0,2337,202408131525
+Jan Łabędzki,ŁKS Łódź,Pomocnik,1.10,0%,Polska,PSV Łódź,1,0,0,2364,202408131525
+Maciej Kowalski-Haberek,Polonia Warszawa,Obrońca,1.60,0%,Polska,Podbeskidzie Bielsko-Biała,1,0,0,1602,202408131525
+Łukasz Furtak,Stal Stalowa Wola,Obrońca,1.50,2%,Polska,Raków II Częstochowa,1,0,0,331,202408131525
+Hubert Adamczyk,Arka Gdynia,Pomocnik,2.00,2%,Polska,Wisła Płock,1,0,0,845,202408131525
+Aleksander Pawlak,ŁKS Łódź,Pomocnik,1.50,0%,Polska,Wisła Płock,1,0,0,1618,202408131525
+Filip Tonder,Warta Poznań,Pomocnik,0.80,0%,Polska,Lechia Gdańsk,1,0,0,2398,202408131525
+Jakub Piątek,Polonia Warszawa,Pomocnik,1.70,0%,Polska,Ruch Chorzów,1,0,0,124,202408131525
+Kamil Lipiński,Ruch Chorzów,Pomocnik,0.50,0%,Polska,wychowanek,1,0,0,2436,202408131525
+Bartosz Borowski,Wisła Płock,Napastnik,0.50,1%,Polska,wychowanek,1,0,0,2438,202408131525
+Artur Gaża,Stal Rzeszów,Pomocnik,0.50,0%,Polska,wychowanek,1,0,0,2441,202408131525
+Frederico Duarte,Wisła Kraków,Pomocnik,2.20,0%,Portugalia,Panetolikós GFS,1,0,0,2443,202408131525
+Artemijus Tutyškinas,ŁKS Łódź,Obrońca,1.80,0%,Litwa,FC Crotone,1,0,0,1932,202408131525
+Iban Salvador,Wisła Płock,Pomocnik,1.80,0%,Gwinea,Miedź Legnica,1,0,0,2197,202408131525
+Wojciech Łaski,Ruch Chorzów,Pomocnik,1.60,0%,Polska,Jagiellonia Białystok,1,0,0,679,202408131525
+Adrian Szczutowski,Chrobry Głogów,Napastnik,1.60,0%,Polska,Wisła Płock,1,0,0,1487,202408131525
+Wiktor Biedrzycki,Wisła Kraków,Obrońca,1.90,6%,Polska,Bruk-Bet Termalica Nieciecza,1,0,0,465,202408131525
+Kacper Plichta,Stal Rzeszów,Napastnik,0.50,6%,Polska,wychowanek,1,0,0,2258,202408131525
+Piotr Głowacki,ŁKS Łódź,Obrońca,1.80,1%,Polska,Stal Rzeszów,1,0,0,468,202408131525
+Karol Dziedzic,Wisła Kraków,Pomocnik,0.70,0%,Polska,Garbarnia Kraków,1,0,0,2262,202408131525
+Tafara Madembo,Kotwica Kołobrzeg,Pomocnik,0.60,1%,Polska,Orlęta Radzyń Podlaskie,1,0,0,2295,202408131525
+Mykyta Wasin,Polonia Warszawa,Pomocnik,1.30,0%,Polska,MKS Polonia Warszawa,1,0,0,2043,202408131525
+Maksymilian Brejnak,Znicz Pruszków,Obrońca,0.50,6%,Polska,Ursus Warszawa,0,0,0,2048,202408131525
+Santiago de Almeida,Pogoń Siedlce,Obrońca,1.40,1%,Brazylia,Orlęta Radzyń Podlaskie,0,0,0,2304,202408131525
+Dmytro Juchymowycz,Znicz Pruszków,Obrońca,1.70,0%,Ukraina,Ahrobiznes Wołoczyska,0,0,0,2049,202408131525
+Filip Kendzia,Znicz Pruszków,Obrońca,1.40,0%,Polska,KKS 1925 Kalisz,0,0,0,2050,202408131525
+Robert Majewski,Pogoń Siedlce,Obrońca,1.30,0%,Polska,Wisła Puławy,0,0,0,2307,202408131525
+Jakub Okusami,Pogoń Siedlce,Obrońca,0.90,2%,Polska,Legia II Warszawa,0,0,0,2309,202408131525
+Maciej Dampc,Kotwica Kołobrzeg,Obrońca,1.50,2%,Polska,Radunia Stężyca,0,0,0,6,202408131525
+Kacper Bogusiewicz,Pogoń Siedlce,Pomocnik,0.80,0%,Polska,Legia II Warszawa,0,0,0,2310,202408131525
+Kacper Kołotyło,GKS Tychy,Bramkarz,0.90,0%,Polska,Odra Opole,0,0,0,1031,202408131525
+Oliwier Myszkowski,Pogoń Siedlce,Pomocnik,0.70,0%,Polska,Widzew Łódź,0,0,0,2312,202408131525
+Krzysztof Janus,Wisła Płock,Pomocnik,1.50,0%,Polska,Odra Opole,0,0,0,778,202408131525
+Filip Składowski,Znicz Pruszków,Napastnik,0.50,2%,Polska,Champion Warszawa,0,0,0,2059,202408131525
+Bartosz Wicenciak,Pogoń Siedlce,Pomocnik,1.20,0%,Polska,Legia II Warszawa,0,0,0,2315,202408131525
+Szymon Jannasz,Znicz Pruszków,Pomocnik,0.50,3%,Polska,Naprzód Stare Babice,0,0,0,2060,202408131525
+Danyy Babor,Pogoń Siedlce,Napastnik,0.70,1%,Polska,SSM Wisła Płock,0,0,0,2317,202408131525
+Michał Kołodziejski,Polonia Warszawa,Obrońca,1.70,0%,Polska,GKS Katowice,0,0,0,1038,202408131525
+Patryk Pierzak,Miedź Legnica,Pomocnik,1.30,0%,Polska,Górnik Łęczna,0,0,0,1806,202408131525
+Cezary Bujalski,Pogoń Siedlce,Napastnik,0.50,2%,Polska,Dziewiątka Siedlce,0,0,0,2318,202408131525
+Kacper Krzepisz,Kotwica Kołobrzeg,Bramkarz,1.50,1%,Polska,Podbeskidzie Bielsko-Biała,0,0,0,1295,202408131525
+Tomasz Woźniak,Górnik Łęczna,Bramkarz,1.00,0%,Polska,SPAL 2013,0,0,0,1808,202408131525
+Tomasz Zieliński,Stal Stalowa Wola,Bramkarz,0.90,1%,Polska,Czarni Połaniec,0,0,0,2324,202408131525
+Igor Fedejko,Stal Stalowa Wola,Obrońca,0.50,8%,Polska,wychowanek,0,0,0,2325,202408131525
+Borys Freilich,Stal Stalowa Wola,Obrońca,1.30,0%,Polska,Pogoń Szczecin,0,0,0,2326,202408131525
+Oskar Bystrek,Stal Stalowa Wola,Pomocnik,0.50,2%,Polska,AP Stalowa Wola,0,0,0,2329,202408131525
+Michał Szałachowski,Górnik Łęczna,Napastnik,0.50,1%,Polska,wychowanek,0,0,0,1818,202408131525
+Filip Chadała,Miedź Legnica,Bramkarz,0.50,2%,Polska,UKS SMS Łódź,0,0,0,2075,202408131525
+Miłosz Rębisz,Stal Stalowa Wola,Pomocnik,0.70,0%,Polska,wychowanek,0,0,0,2333,202408131525
+Bartłomiej Gradecki,Wisła Płock,Bramkarz,1.80,0%,Polska,Wisła Puławy,0,0,0,2082,202408131525
+Krystian Tofilski,Stal Stalowa Wola,Napastnik,0.50,1%,Polska,AP Stalowa Wola,0,0,0,2338,202408131525
+Kike Hermoso,Arka Gdynia,Obrońca,1.90,1%,Hiszpania,CF Rayo Majadahonda,0,0,0,2339,202408131525
+Kamil Zapytowski,Wisła Płock,Bramkarz,0.50,4%,Polska,SSM Wisła Płock,0,0,0,2084,202408131525
+Gerard Bieszczad,Stal Rzeszów,Bramkarz,1.50,1%,Polska,MFK Zemplín Michalovce,0,0,0,1832,202408131525
+Jakub Marcinkowski,Bruk-Bet Termalica Nieciecza,Obrońca,1.30,1%,Polska,Hutnik Kraków,0,0,0,2344,202408131525
+Vlastimir Jovanović,Bruk-Bet Termalica Nieciecza,Pomocnik,1.20,0%,Bośnia,Korona Kielce,0,0,0,553,202408131525
+Bartosz Zarębski,GKS Tychy,Obrońca,0.50,2%,Polska,APN GKS Tychy,0,0,0,1578,202408131525
+Natan Dzięgielewski,GKS Tychy,Pomocnik,1.00,0%,Polska,APN GKS Tychy,0,0,0,1579,202408131525
+Gleb Kuczko,Wisła Płock,Pomocnik,1.60,0%,Białoruś,Ruch Brześć,0,0,0,2091,202408131525
+Erwin Bahonko,Bruk-Bet Termalica Nieciecza,Pomocnik,0.50,0%,Polska,Podlasie Biała Podlaska,0,0,0,2096,202408131525
+Sebastian Szczytniewski,Górnik Łęczna,Obrońca,1.40,0%,Polska,Chojniczanka Chojnice,0,0,0,2353,202408131525
+Michał Wachowicz,Górnik Łęczna,Pomocnik,0.50,1%,Polska,OSiR Biłgoraj,0,0,0,2354,202408131525
+Marcel Wszołek,ŁKS Łódź,Pomocnik,1.50,0%,Polska,Lechia Gdańsk,0,0,0,1331,202408131525
+Tomasz Kucharski,ŁKS Łódź,Bramkarz,0.70,1%,Polska,Start Łódź,0,0,0,2355,202408131525
+Dawid Szot,Wisła Kraków,Obrońca,1.70,0%,Polska,Progres Kraków,0,0,0,1844,202408131525
+Kelechukwu Ibe-Torti,ŁKS Łódź,Pomocnik,1.80,0%,Nigeria,Resovia,0,0,0,1335,202408131525
+Enis Fazlagić,Wisła Kraków,Pomocnik,1.70,0%,Macedonia,Górnik Łęczna,0,0,0,1849,202408131525
+Ricardo Gonçalves do Nascimento,ŁKS Łódź,Pomocnik,1.80,0%,Polska,Widzew II Łódź,0,0,0,2362,202408131525
+Aleksander Iwańczyk,ŁKS Łódź,Pomocnik,1.70,0%,Polska,Legia Warszawa,0,0,0,2363,202408131525
+Józef Burta,Odra Opole,Bramkarz,1.40,0%,Polska,Śląsk Wrocław,0,0,0,2108,202408131525
+Mateusz Maćkowiak,Warta Poznań,Obrońca,1.60,0%,Polska,Skra Częstochowa,0,0,0,1597,202408131525
+Bartosz Bida,Miedź Legnica,Pomocnik,1.70,1%,Polska,Podbeskidzie Bielsko-Biała,0,0,0,830,202408131525
+Oliwier Sławiński,ŁKS Łódź,Napastnik,1.00,1%,Polska,Zagłębie Lubin,0,0,0,2368,202408131525
+Kay Tejan,ŁKS Łódź,Napastnik,2.50,2%,Holandia,TOP Oss,0,0,0,2369,202408131525
+Jakub Kaczemba,Miedź Legnica,Obrońca,0.50,1%,Polska,Miedź II Legnica,0,0,0,2370,202408131525
+Bartosz Falbierski,Polonia Warszawa,Pomocnik,0.90,0%,Polska,MKS Polonia Warszawa,0,0,0,2375,202408131525
+Jesus Alfaro,Wisła Kraków,Pomocnik,1.80,0%,Hiszpania,CD Badajoz,0,0,0,2120,202408131525
+Gabriel Estigarribia,Chrobry Głogów,Obrońca,1.70,0%,Brazylia,Cuiavia Inowrocław,0,0,0,2121,202408131525
+Michał Pawlik,Znicz Pruszków,Pomocnik,1.60,1%,Polska,Górnik Łęczna,0,0,0,74,202408131525
+Ksawery Kwiatkowski,Ruch Chorzów,Obrońca,1.20,0%,Polska,Gwiazda Ruda Śląska,0,0,0,2378,202408131525
+Mateusz Golba,Górnik Łęczna,Napastnik,0.50,0%,Polska,Podlasie Biała Podlaska,0,0,0,1867,202408131525
+Franciszek Polowiec,Stal Rzeszów,Obrońca,1.40,0%,Polska,Escola Varsovia,0,0,0,1870,202408131525
+Jakub Korolewicz,Chrobry Głogów,Bramkarz,0.70,0%,Polska,Chrobry II Głogów,0,0,0,2128,202408131525
+Mike Huras,Ruch Chorzów,Napastnik,1.70,0%,Polska,VfB Stuttgart 1893,0,0,0,2384,202408131525
+Tomasz Turkiewicz,Chrobry Głogów,Bramkarz,0.50,15%,Polska,wychowanek,0,0,0,2129,202408131525
+Mateusz Abramowicz,Miedź Legnica,Bramkarz,1.70,1%,Polska,TSV Eintracht 1920,0,0,0,82,202408131525
+Kacper Laskowski,Wisła Płock,Pomocnik,1.40,0%,Polska,Carina Gubin,0,0,0,2131,202408131525
+Borys Ołeniak,Warta Poznań,Bramkarz,0.80,0%,Polska,TSV Bayer Leverkusen,0,0,0,2387,202408131525
+Leo Przybylak,Warta Poznań,Bramkarz,0.90,0%,Polska,Olimpia Zambrów,0,0,0,2388,202408131525
+Dawid Czapliński,Odra Opole,Pomocnik,1.70,0%,Polska,Ruch Zdzieszowice,0,0,0,1365,202408131525
+Wołodymyr Kostewycz,Warta Poznań,Obrońca,1.80,0%,Ukraina,Ruch Lwów,0,0,0,2390,202408131525
+Patryk Letkiewicz,Wisła Kraków,Bramkarz,0.50,1%,Polska,UKS SMS Łódź,0,0,0,2135,202408131525
+Mateusz Lechowicz,Warta Poznań,Obrońca,0.70,1%,Polska,Błękitni Owińska,0,0,0,2391,202408131525
+Wiktor Szywacz,Wisła Kraków,Pomocnik,1.20,0%,Polska,Garbarnia Kraków,0,0,0,1880,202408131525
+Karol Tokarczyk,Wisła Kraków,Pomocnik,0.50,0%,Polska,Wisła Kraków (juniorzy),0,0,0,2136,202408131525
+Kacper Duda,Wisła Kraków,Pomocnik,1.80,0%,Polska,wychowanek,0,0,0,1881,202408131525
+Jędrzej Hanuszczak,Warta Poznań,Pomocnik,0.50,1%,Polska,LPFA Piątkowo Poznań,0,0,0,2393,202408131525
+Eric Topór,Pogoń Siedlce,Bramkarz,1.30,1%,Polska,Bruk-Bet Termalica Nieciecza,0,0,0,1882,202408131525
+Jakub Miarka,Wisła Płock,Pomocnik,0.70,0%,Polska,Wisła II Płock,0,0,0,2138,202408131525
+Paweł Leżoń,Bruk-Bet Termalica Nieciecza,Pomocnik,0.80,0%,Polska,Tarnovia Tarnów,0,0,0,859,202408131525
+Bartosz Farbiszewski,Bruk-Bet Termalica Nieciecza,Obrońca,0.60,1%,Polska,Escola Varsovia Warszawa,0,0,0,1883,202408131525
+Szymon Leśniewski,Wisła Płock,Pomocnik,0.70,0%,Polska,Wisła II Płock,0,0,0,2139,202408131525
+Michał Kopczyński,Warta Poznań,Pomocnik,1.60,0%,Polska,Arka Gdynia,0,0,0,2395,202408131525
+Piotr Zieliński,Wisła Płock,Bramkarz,1.20,0%,Polska,Wisła Puławy,0,0,0,2140,202408131525
+Dawid Olejarka,Wisła Kraków,Pomocnik,1.50,0%,Polska,Stal Rzeszów,0,0,0,1885,202408131525
+Bartosz Zynek,Wisła Płock,Pomocnik,0.90,0%,Polska,Radunia Stężyca,0,0,0,2141,202408131525
+Igor Stańczak,Warta Poznań,Pomocnik,0.50,0%,Polska,Warta Gorzów Wielkopolski,0,0,0,2397,202408131525
+Wiktor Sawicki,Arka Gdynia,Napastnik,0.50,1%,Polska,ITS Jeziorak Iława,0,0,0,2145,202408131525
+Egzon Kryeziu,Górnik Łęczna,Pomocnik,2.00,1%,Słowenia,Lechia Gdańsk,0,0,0,1891,202408131525
+Kuba Wiśniewski,Wisła Kraków,Obrońca,0.50,1%,Polska,Legia II Warszawa,0,0,0,2147,202408131525
+Ignace Abdelhamid,Wisła Płock,Pomocnik,1.90,0%,Belgia,Young Reds Antwerp,0,0,0,2403,202408131525
+Michał Ploch,GKS Tychy,Pomocnik,0.70,0%,Polska,GKS II Tychy,0,0,0,1893,202408131525
+Miłosz Lewandowski,Miedź Legnica,Obrońca,0.60,1%,Polska,Escola Varsovia Warszawa,0,0,0,2150,202408131525
+Karol Turek,Górnik Łęczna,Obrońca,1.20,0%,Polska,-,0,0,0,362,202408131525
+Bartłomiej Barański,Ruch Chorzów,Napastnik,0.80,1%,Polska,Lech Poznań,0,0,0,1898,202408131525
+Bartosz Klebaniuk,Znicz Pruszków,Bramkarz,1.70,0%,Polska,Pogoń Szczecin,0,0,0,2410,202408131525
+Kamil Broda,Wisła Kraków,Bramkarz,1.30,1%,Polska,Chojniczanka Chojnice,0,0,0,1900,202408131525
+Bartosz Borkowski,Pogoń Siedlce,Pomocnik,0.50,1%,Polska,MKL SEMP Siedlce,0,0,0,2157,202408131525
+Oskar Klon,Wisła Płock,Bramkarz,0.70,0%,Polska,KSZO Ostrowiec,0,0,0,2414,202408131525
+Tomasz Płaneta,Bruk-Bet Termalica Nieciecza,Pomocnik,0.70,0%,Polska,KS Wiązownica,0,0,0,2415,202408131525
+Kacper Buniak,Odra Opole,Napastnik,0.50,1%,Polska,wychowanek,0,0,0,2416,202408131525
+Nikolas Korzeniecki,Chrobry Głogów,Pomocnik,1.40,0%,Polska,Zagłębie Sosnowiec,0,0,0,1393,202408131525
+Miłosz Jandziak,Chrobry Głogów,Pomocnik,0.50,0%,Polska,wychowanek,0,0,0,1649,202408131525
+Michał Sienicki,Górnik Łęczna,Obrońca,0.50,2%,Polska,BKS Lublin,0,0,0,2161,202408131525
+Jan Dębski,Odra Opole,Pomocnik,0.70,0%,Polska,wychowanek,0,0,0,2417,202408131525
+Paweł Mróz,Odra Opole,Obrońca,0.50,3%,Polska,wychowanek,0,0,0,2418,202408131525
+Dorian Orliński,GKS Tychy,Pomocnik,0.50,0%,Polska,wychowanek,0,0,0,1651,202408131525
+Wiktor Bućko,Znicz Pruszków,Pomocnik,0.90,0%,Polska,Pilica Białobrzegi,0,0,0,2163,202408131525
+Olaf Nowak,Kotwica Kołobrzeg,Napastnik,1.40,1%,Polska,Stilon Gorzów Wielkopolski,0,0,0,1396,202408131525
+Gracjan Antkowiak,Chrobry Głogów,Pomocnik,0.70,0%,Polska,Dąb Przybyszów,0,0,0,2420,202408131525
+Marcel Gawłowski,Chrobry Głogów,Bramkarz,0.50,4%,Polska,wychowanek,0,0,0,2421,202408131525
+Marcin Grabowski,Górnik Łęczna,Obrońca,1.80,1%,Polska,Bruk-Bet Termalica Nieciecza,0,0,0,1142,202408131525
+Kamil Grzelak,Chrobry Głogów,Pomocnik,0.50,0%,Polska,wychowanek,0,0,0,2422,202408131525
+Miłosz Kaczmarek,Arka Gdynia,Pomocnik,0.50,0%,Polska,wychowanek,0,0,0,2423,202408131525
+Juliusz Letniowski,Miedź Legnica,Pomocnik,1.70,0%,Polska,Ruch Chorzów,0,0,0,632,202408131525
+Bruno Wacławek,Bruk-Bet Termalica Nieciecza,Obrońca,1.60,0%,Polska,Hetman Zamość,0,0,0,1144,202408131525
+Babacar Diallo,Miedź Legnica,Obrońca,1.40,1%,Senegal,Yéwou Étude Sport,0,0,0,2424,202408131525
+Damian Zbozień,Górnik Łęczna,Obrońca,1.80,2%,Polska,Wisła Płock,0,0,0,1914,202408131525
+Kacper Skrobański,Wisła Kraków,Obrońca,1.40,0%,Polska,wychowanek,0,0,0,1915,202408131525
+Martin Turk,Ruch Chorzów,Bramkarz,1.80,1%,Słowenia,Parma Calcio 1913,0,0,0,2427,202408131525
+Denis Matyśkiewicz,GKS Tychy,Pomocnik,0.50,0%,Polska,Górnik Zabrze,0,0,0,2173,202408131525
+Miłosz Skowronek,Chrobry Głogów,Obrońca,0.80,1%,Polska,ŁKS Łomża,0,0,0,2429,202408131525
+Bartosz Talar,Wisła Kraków,Pomocnik,1.00,0%,Polska,Olympique Lyonnais B,0,0,0,1919,202408131525
+Din Sula,Odra Opole,Napastnik,1.90,0%,Belgia,Royal Knokke FC,0,0,0,2175,202408131525
+Mikołaj Kiliszek,Górnik Łęczna,Bramkarz,0.50,2%,Polska,Górnik II Łęczna,0,0,0,1920,202408131525
+Dominik Stanny,Stal Stalowa Wola,Bramkarz,0.50,3%,Polska,ROW 1964 Rybnik,0,0,0,2432,202408131525
+Marcin Bartoń,Wisła Kraków,Napastnik,0.50,1%,Polska,wychowanek,0,0,0,1921,202408131525
+Szymon Panasiuk,Stal Rzeszów,Obrońca,0.70,0%,Polska,Zagłębie II Lubin,0,0,0,2178,202408131525
+Hubert Idasiak,ŁKS Łódź,Bramkarz,1.70,0%,Polska,SSC Napoli,0,0,0,2437,202408131525
+Adrian Klimczak,Chrobry Głogów,Obrońca,1.50,1%,Polska,Olimpia Grudziądz,0,0,0,393,202408131525
+Jakub Cieślicki,Chrobry Głogów,Pomocnik,0.50,0%,Polska,wychowanek,0,0,0,1929,202408131525
+Adam Chrzanowski,Wisła Płock,Obrońca,1.70,1%,Polska,Pordenone Calcio,0,0,0,906,202408131525
+Damian Michalik,Miedź Legnica,Pomocnik,2.10,1%,Polska,Stal Rzeszów,0,0,0,396,202408131525
+Idris Momoh,Miedź Legnica,Pomocnik,0.80,0%,Nigeria,Miedź II Legnica,0,0,0,2188,202408131525
+Isaac Amoah,Pogoń Siedlce,Obrońca,1.60,0%,Ghana,SD Tarazona,0,0,0,2445,202408131525
+Michał Steszuk,Górnik Łęczna,Pomocnik,0.50,0%,Polska,Huragan Międzyrzec Podlaski,0,0,0,2190,202408131525
+Mateusz Cichocki,Warta Poznań,Pomocnik,1.00,0%,Polska,Pilica Białobrzegi,0,0,0,2446,202408131525
+Andrzej Krajewski,Polonia Warszawa,Obrońca,1.40,0%,Polska,Legionovia Legionowo,0,0,0,2447,202408131525
+Jakub Witek,Wisła Płock,Pomocnik,1.00,0%,Polska,Ruch Chorzów,0,0,0,1425,202408131525
+Jakub Raciniewski,Stal Rzeszów,Bramkarz,1.00,1%,Polska,Lechia II Gdańsk,0,0,0,1937,202408131525
+Daniel Vega,Polonia Warszawa,Pomocnik,1.80,0%,Hiszpania,Real Murcia CF,0,0,0,2449,202408131525
+Kacper Paśko,Stal Rzeszów,Obrońca,0.70,0%,Polska,wychowanek,0,0,0,1939,202408131525
+Bartosz Tomaszewski,Stal Stalowa Wola,Obrońca,0.50,0%,Polska,Lech Poznań,0,0,0,2451,202408131525
+Miłosz Kaczor,Stal Rzeszów,Pomocnik,0.70,0%,Polska,Stal II Rzeszów,0,0,0,2452,202408131525
+Szymon Sikorski,Odra Opole,Obrońca,0.50,0%,Polska,Odra II Opole,0,0,0,2453,202408131525
+Damian Węglarz,Arka Gdynia,Bramkarz,1.90,1%,Polska,Chrobry Głogów,0,0,0,406,202408131525
+Gabriel Isik,Bruk-Bet Termalica Nieciecza,Obrońca,1.80,0%,Niemcy,FC Vaduz,0,0,0,2454,202408131525
+Patryk Sikora,Ruch Chorzów,Pomocnik,1.80,1%,Polska,-,0,0,0,151,202408131525
+Amar Drina,Miedź Legnica,Obrońca,1.70,0%,Bośnia,NK Željezničar (Sarajewo),0,0,0,2455,202408131525
+Krzysztof Machowski,GKS Tychy,Obrońca,1.70,0%,Polska,AP 21 Kraków,0,0,0,1688,202408131525
+Adrian Kazimierczak,Znicz Pruszków,Napastnik,0.50,0%,Polska,Pilica Białobrzegi,0,0,0,2456,202408131525
+Hubert Brysiak,Znicz Pruszków,Obrońca,0.50,14%,Polska,wychowanek,0,0,0,2201,202408131525
+Grzegorz Wawrzyński,Wisła Płock,Obrońca,1.20,0%,Polska,Pelikan Łowicz,0,0,0,2202,202408131525
+Noah Mrosek,Bruk-Bet Termalica Nieciecza,Obrońca,1.40,0%,Polska,SC Paderborn 07 II,0,0,0,2458,202408131525
+Ołeksandr Azaćkyj,Arka Gdynia,Obrońca,1.80,0%,Ukraina,Dinamo Batumi,0,0,0,1948,202408131525
+Dawid Olszak,Górnik Łęczna,Bramkarz,0.50,2%,Polska,Górnik II Zabrze,0,0,0,2204,202408131525
+Eryk Pieczarka,Chrobry Głogów,Pomocnik,0.80,0%,Polska,wychowanek,0,0,0,1694,202408131525
+Szymon Salamon,Stal Rzeszów,Napastnik,1.00,1%,Polska,wychowanek,0,0,0,2206,202408131525
+Mateusz Spychała,Odra Opole,Obrońca,1.70,0%,Polska,Warta Poznań,0,0,0,415,202408131525
+Dominik Sarga,Wisła Kraków,Napastnik,0.50,0%,Polska,wychowanek,0,0,0,2207,202408131525
+Adrian Jurkiewicz,Arka Gdynia,Pomocnik,0.50,0%,Polska,wychowanek,0,0,0,2209,202408131525
+Wołodymyr Wereszczak,Arka Gdynia,Obrońca,0.50,1%,Ukraina,wychowanek,0,0,0,2210,202408131525
+Maciej Maćkowiak,Chrobry Głogów,Obrońca,0.70,0%,Polska,Lechia Zielona Góra,0,0,0,2213,202408131525
+Krzysztof Janiszewski,Chrobry Głogów,Obrońca,0.50,3%,Polska,Chrobry II Głogów,0,0,0,2214,202408131525
+Jasse Tuominen,Bruk-Bet Termalica Nieciecza,Napastnik,1.90,0%,Finlandia,Kuopion Palloseura,0,0,0,2217,202408131525
+Stanisław Czarnogłowski,GKS Tychy,Bramkarz,0.50,3%,Polska,Stadion Śląski Chorzów,0,0,0,1707,202408131525
+Teo Kurtaran,GKS Tychy,Pomocnik,1.70,0%,Wielka,Walton & Hersham FC,0,0,0,2221,202408131525
+Marcin Kaczor,Stal Rzeszów,Pomocnik,0.50,1%,Polska,Stal II Rzeszów,0,0,0,1967,202408131525
+Antoni Grzelczak,Polonia Warszawa,Pomocnik,0.70,0%,Polska,MKS Polonia Warszawa,0,0,0,2232,202408131525
+Marcin Garuch,Miedź Legnica,Pomocnik,1.60,0%,Polska,Miedź Legnica II,0,0,0,1209,202408131525
+Szymon Szkliński,Odra Opole,Pomocnik,0.50,0%,Polska,Odra II Opole,0,0,0,1980,202408131525
+Dawid Arndt,Chrobry Głogów,Bramkarz,1.80,1%,Polska,ŁKS Łódź,0,0,0,703,202408131525
+Adrian Tworzydło,Chrobry Głogów,Pomocnik,0.70,0%,Polska,Czarni Żagań,0,0,0,1983,202408131525
+Michał Brudnicki,Polonia Warszawa,Bramkarz,1.40,0%,Polska,Legionovia Legionowo,0,0,0,704,202408131525
+Michał Kołba,ŁKS Łódź,Bramkarz,1.20,1%,Polska,Pogoń Grodzisk Mazowiecki,0,0,0,705,202408131525
+Korneliusz Krasuski,Znicz Pruszków,Napastnik,0.50,2%,Polska,wychowanek,0,0,0,2241,202408131525
+Mateusz Michalski,Polonia Warszawa,Pomocnik,1.80,0%,Polska,Widzew Łódź,0,0,0,963,202408131525
+Jakub Nowakowski,Bruk-Bet Termalica Nieciecza,Pomocnik,1.50,0%,Polska,Radomiak Radom,0,0,0,964,202408131525
+Marcel Sluga,Odra Opole,Napastnik,1.00,1%,Polska,Pelikan Łowicz,0,0,0,1226,202408131525
+Kacper Józefiak,Miedź Legnica,Obrońca,1.20,0%,Polska,Siarka Tarnobrzeg,0,0,0,2251,202408131525
+Jan Leończyk,Miedź Legnica,Obrońca,0.70,0%,Polska,Polonia Nysa,0,0,0,2252,202408131525
+Kasjan Lipkowski,Arka Gdynia,Obrońca,1.60,0%,Polska,Arka II Gdynia,0,0,0,1741,202408131525
+Mikołaj Oleksy,GKS Tychy,Pomocnik,0.50,1%,Polska,wychowanek,0,0,0,1997,202408131525
+Natan Malczuk,Chrobry Głogów,Obrońca,1.60,0%,Polska,wychowanek,0,0,0,1998,202408131525
+Arsen Hrosu,Stal Rzeszów,Pomocnik,1.50,0%,Ukraina,Górnik Zabrze,0,0,0,2255,202408131525
+Vitalij Diachenko,Miedź Legnica,Bramkarz,0.50,2%,Ukraina,wychowanek,0,0,0,2257,202408131525
+Jakub Stępak,Wisła Kraków,Bramkarz,0.50,1%,Polska,wychowanek,0,0,0,2260,202408131525
+Sebastian Rojek,Górnik Łęczna,Obrońca,1.20,0%,Polska,Rider Broncs,0,0,0,2268,202408131525
+Maksymilian Paszkowski,Odra Opole,Pomocnik,0.50,0%,Polska,wychowanek,0,0,0,1759,202408131525
+Jakub Lemanowicz,Polonia Warszawa,Bramkarz,1.60,0%,Polska,Świt Nowy Dwór Mazowiecki,0,0,0,992,202408131525
+Marcel Potoczny,Ruch Chorzów,Bramkarz,0.90,0%,Polska,GKS Katowice,0,0,0,2018,202408131525
+Yūto Taira,Chrobry Głogów,Pomocnik,1.50,0%,Japonia,Jarota Jarocin,0,0,0,2274,202408131525
+Jakub Lorek,Stal Rzeszów,Pomocnik,0.50,1%,Polska,wychowanek,0,0,0,2019,202408131525
+Diego Deisadze,Bruk-Bet Termalica Nieciecza,Pomocnik,1.30,0%,Gruzja,Drukarz Warszawa,0,0,0,2276,202408131525
+Adam Wójcik,Odra Opole,Bramkarz,0.50,6%,Polska,wychowanek,0,0,0,2021,202408131525
+Igor Łasicki,Wisła Kraków,Obrońca,1.70,0%,Polska,Pogoń Szczecin,0,0,0,1766,202408131525
+Ilia Postupalskyi,Stal Rzeszów,Pomocnik,0.70,0%,Ukraina,wychowanek,0,0,0,2278,202408131525
+Kacper Sadłocha,Stal Rzeszów,Napastnik,1.50,1%,Polska,Stal Mielec,0,0,0,745,202408131525
+Tomasz Wojciechowski,Chrobry Głogów,Napastnik,0.90,0%,Polska,Piast Żmigród,0,0,0,2282,202408131525
+Janusz Gol,Arka Gdynia,Pomocnik,1.80,1%,Polska,Górnik Łęczna,0,0,0,1771,202408131525
+Mikołaj Molga,Bruk-Bet Termalica Nieciecza,Bramkarz,0.50,9%,Polska,wychowanek,0,0,0,2283,202408131525
+Daniel Węgrzyn,Stal Rzeszów,Pomocnik,0.50,1%,Polska,wychowanek,0,0,0,2285,202408131525
+Miłosz Mleczko,Bruk-Bet Termalica Nieciecza,Bramkarz,1.70,1%,Polska,Znicz Pruszków,0,0,0,494,202408131525
+Przemysław Szur,Polonia Warszawa,Obrońca,1.80,0%,Polska,Ruch Chorzów,0,0,0,1774,202408131525
+Filip Sonntag,Stal Rzeszów,Obrońca,0.50,5%,Polska,wychowanek,0,0,0,2286,202408131525
+John Makowiecki,Kotwica Kołobrzeg,Obrońca,1.40,0%,USA,Elana Toruń,0,0,0,2287,202408131525
+Przemysław Mystkowski,GKS Tychy,Pomocnik,1.60,1%,Polska,AO Iraklís Saloniki,0,0,0,240,202408131525
+Andrzej Trojnarski,Kotwica Kołobrzeg,Obrońca,0.50,12%,Polska,AP Reissa Poznań,0,0,0,2289,202408131525
+Aleksander Bobek,ŁKS Łódź,Bramkarz,2.00,2%,Polska,wychowanek,0,0,0,1522,202408131525
+Mateusz Górski,GKS Tychy,Bramkarz,1.70,1%,Polska,Śląsk Wrocław,0,0,0,1011,202408131525
+Krystian Bartoszek,Bruk-Bet Termalica Nieciecza,Bramkarz,0.70,0%,Polska,wychowanek,0,0,0,1779,202408131525
+Michał Litwa,Górnik Łęczna,Napastnik,1.20,0%,Polska,Górnik Polkowice,0,0,0,2036,202408131525
+Michał Lasek,Kotwica Kołobrzeg,Pomocnik,0.50,8%,Polska,SPN Szamotuły,0,0,0,2294,202408131525
+Eryk Mikołajewski,Polonia Warszawa,Obrońca,0.90,1%,Polska,MKS Polonia Warszawa,0,0,0,2039,202408131525
+Jakub Żubrowski,Kotwica Kołobrzeg,Pomocnik,1.50,0%,Polska,Zagłębie Lubin,0,0,0,2297,202408131525
+Martin Dobrotka,Arka Gdynia,Obrońca,1.90,0%,Słowacja,Wigry Suwałki,0,0,0,250,202408131525
+Adam Smulski,Polonia Warszawa,Pomocnik,0.50,3%,Polska,SSM Wisła Płock,0,0,0,2042,202408131525
+Dominik Kościelniak,Stal Stalowa Wola,Pomocnik,1.40,0%,Polska,GKS Katowice,0,0,0,1531,202408131525
+Wojciech Błyszko,Odra Opole,Obrońca,1.70,0%,Polska,Znicz Pruszków,0,0,0,1788,202408131525
+Krzysztof Popiołek,Pogoń Siedlce,Bramkarz,0.70,1%,Polska,Dziewiątka Siedlce,0,0,0,2301,202408131525
+Patryk Szatkowski,Pogoń Siedlce,Bramkarz,0.70,1%,Polska,SSM Wisła Płock,0,0,0,2302,202408131525
+Dawid Łącki,Stal Stalowa Wola,Napastnik,0.60,1%,Polska,MKS Polonia Warszawa,-1,0,0,2336,202408131525
+Bujar Pllana,Lechia Gdańsk,Obrońca,1.70,0%,Polska,NK Slaven (Koprivnica),,0,0,2457,202408131525
